@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Pacifico', cursive;
+   
+}
+body{
+    background-color: #f7ecde;
+}
+p{
+    background: -webkit-linear-gradient(rgb(247, 255, 88), rgb(39, 181, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
